@@ -1,2 +1,3 @@
 1106
-+ new text
+
+//git rm --cached
